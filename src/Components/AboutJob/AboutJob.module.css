@@ -1,0 +1,83 @@
+.container{
+    width:100%;
+}
+
+.jobWrap{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    width:90%;
+    margin:auto;
+    margin-bottom:4rem;
+}
+
+.jobImage{
+    width:30%;
+}
+
+.jobText{
+    width:65%;
+}
+
+
+.jobText p{
+    margin-bottom:1rem;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28.8px;
+    color: rgba(51, 51, 51, 1);  
+}
+
+.business{
+    width:85%;
+    margin:auto;
+    border-radius:10px;
+    background:rgba(14, 57, 151, 1);
+    padding:2rem;
+    color:white;
+}
+
+.business h3{
+    font-family: Lato;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 39.6px;
+    text-align:center;
+    color:white;
+    padding-bottom:1rem;
+    width:70%;
+    margin:auto;
+}
+
+.card p{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    color:white;
+    padding-top:1rem;
+    color:rgba(14, 57, 151, 1);
+}
+
+.cardWrap{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    width:90%;
+    margin:auto;
+    gap:2rem;
+}
+
+.card{
+    background:white;
+    border-radius:10px;
+    padding:2rem;
+    height:500px;
+}
+
+.award{
+    width:90%;
+    margin:auto;
+    margin-top:5rem;
+}

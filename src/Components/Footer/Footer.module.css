@@ -1,0 +1,124 @@
+.container{
+    width:100%;
+    background:url(../../Assets/map.png);
+    background-color:rgba(60, 59, 59, 1);
+    background-repeat:no-repeat;
+    padding-top:3rem;
+    padding-bottom:1rem;    
+    background-position: center;
+    background-blend-mode:color;
+}
+
+footer{
+    width:90%;
+    margin:auto;
+    color:white;
+}
+
+.footWrap{
+    display:flex;
+    justify-content:space-between;
+    margin-top:2rem;
+}
+
+.footRight{
+    display:flex;
+    justify-content:space-between;
+    width:40%;
+    margin-top:2rem;
+}
+
+.footLeft{
+    width:30%;
+}
+
+.subscribe{
+    width:20%;
+    margin-top:2rem;
+}
+
+.socials{
+    display:flex;
+    gap:1rem;
+    align-items:center;
+    margin-top:2rem;
+
+}
+
+.info h5{
+    font-family: Lato;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+padding-bottom:1rem;
+}
+
+.info p{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    padding-bottom:1rem;
+}
+
+.footLeft p{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    width:70%;
+    padding-top:1rem;
+}
+
+.subscribe h5{
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-bottom:1rem;
+}
+
+form Input{
+    padding:0.5rem;
+    width:80%;
+    border:none;
+    background: rgba(244, 245, 247, 1);
+    font-family:Lato;
+    font-size:16px;
+    font-weight:400;
+    line-height:24px;
+    border-radius: 5px 0px 0px 5px;
+    color:rgba(130, 130, 130, 1);
+}
+
+form button{
+    width:20%;
+    background:rgba(14, 57, 151, 1);
+    color:white;
+    padding:0.5rem 1rem;
+    border:none;
+    border-radius:0px 5px 5px 0px;
+    font-family:Lato;
+    font-size:16px;
+    font-weight:700;
+    line-height:24px;
+    cursor:pointer;
+}
+
+.copyright{
+    margin-top:4rem;
+    text-align:center;
+}
+
+.copyright p{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.2px;
+    padding-top:1rem;
+}
+
+.copyright hr{
+    width:40.7%;
+    margin:auto;
+}

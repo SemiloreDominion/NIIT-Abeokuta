@@ -1,0 +1,60 @@
+.container{
+    width:100%;
+    background:rgba(14, 57, 151, 1);
+    padding:5rem 0;
+}
+
+.innerContainer{
+    width:60%;
+    margin:auto;
+}
+
+.wrap{
+    display:flex;
+    gap:2rem;
+    align-items:center;
+    width:50%;
+    margin:auto;
+    margin-top:6rem;
+}
+
+.clientImage img{
+    width:100%;
+}
+
+.innerContainer h2{
+    font-family: Lato;
+    font-size: 33px;
+    font-weight: 600;
+    color:white;
+    text-align:center;
+    margin-bottom:4rem;
+}
+
+.testimonySlide p{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align:center;
+    width:73.7%;
+    margin:auto;
+    color:white;
+}
+
+.clientName h5{
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgba(52, 173, 254, 1);
+    text-align:center;
+    width:100%;
+}
+
+.clientName p{
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    color:white;
+}
+
